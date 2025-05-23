@@ -5,7 +5,7 @@ import Home from "./Pages/Home.jsx";
 const Router = () =>
     useRoutes([
         {
-            path: "/",
+            path: "/Photo-Fetcher",
             element: <Layout><Home /></Layout>,
         },
     ]);
