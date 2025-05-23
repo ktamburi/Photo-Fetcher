@@ -16,16 +16,27 @@ A small, simple, responsive image gallery project built with React and Vite. Thi
 > Deployment link:
 
 ## Project Structure
+
 src/
+
 ├── Components/ # Contains all React components.
+
 │ └── UI/ # Reusable UI components like toggle.
+
 ├── Layouts/ # Layout components for different page structures.
+
 ├── Pages/ # Page-level components (views/routes).
+
 ├── Services/ # API calls.
+
 ├── Styles/ # CSS files for styling the app.
+
 ├── HttpClient.jsx # Axios instance/ Http-Client setup.
+
 ├── App.jsx # Root React component.
+
 ├── main.jsx # Entry point, mounts React app.
+
 └── Router.jsx # React page router using react-router-dom.
 
 ## Getting Started
