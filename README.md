@@ -13,7 +13,7 @@ A small, simple, responsive image gallery project built with React and Vite. Thi
 
 ## Demo
 
-> Deployment link:
+> Deployment link: https://ktamburi.github.io/Photo-Fetcher/
 
 ## Project Structure
 
