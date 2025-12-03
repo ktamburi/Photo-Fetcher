@@ -3,7 +3,7 @@ import Header from '../Components/Header.jsx';
 function Layout({ children }) {
     return (
         <>
-            <Header children='Klaudia's Photo Fetcher' />
+            <Header children='Klaudias Photo Fetcher' />
             {children}
         </>
     );
